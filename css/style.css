@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(231, 237, 243);
+    }
+    
+    #main #title h1{
+    text-align: center;
+    }
+    
+    #img-div{
+    text-align: center;
+    }
+    
+    #img-caption{
+    font-family: 'Courier New', Courier, monospace;
+    } 
