@@ -7,9 +7,26 @@ body{
     }
     
     #img-div{
-    text-align: center;
+        text-align: center;
+    }
+
+    img{
+        margin: auto;
+        display: block;
+        max-width: 100%;
     }
     
     #img-caption{
     font-family: 'Courier New', Courier, monospace;
-    } 
+    }
+
+    #tribute-info{
+        margin: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+    }
+    
+    #link{
+        text-align: center;
+    }
+    
